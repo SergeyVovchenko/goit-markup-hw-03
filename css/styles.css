@@ -48,6 +48,8 @@ img {
 .header-box {
     display: flex;
     justify-content: space-between;
+    border-bottom: 1px solid #E7E9FC;
+    background: #FFF;
 }
 
 .logo {
@@ -315,8 +317,8 @@ button:focus {
 
 .footer-section {
     background-color: #2e2f42;
-    height: 312px;
     padding-top: 101.5px;
+    padding-bottom: 100px;
 }
 
 .logo-footer {
