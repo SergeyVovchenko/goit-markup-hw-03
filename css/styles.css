@@ -70,6 +70,10 @@ img {
     color: #2E2F42;
 }
 
+.nav-items {
+    padding: 24px 0;
+}
+
 .navigation-link a {
     color: #2E2F42;
     font-size: 16px;
@@ -103,7 +107,6 @@ img {
 .navigation {
     display: flex;
     align-items: center;
-    padding: 24px 0;
 }
 
 .navigation-link {
@@ -280,10 +283,8 @@ button:focus {
 }
 
 .portfolio-box {
-    width: calc((100% - 2 * 24px) / 3);
-    border: 1px solid #e7e9fc;
-    border-top: none;
     background: #FFF;
+    width: calc((100% - 2 * 24px) / 3);
 }
 
 .title-portfolio {
@@ -298,6 +299,8 @@ button:focus {
 
 .portfolio-info {
     padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
 }
 
 .portfolio-name {
