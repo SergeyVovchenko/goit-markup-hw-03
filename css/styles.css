@@ -53,6 +53,7 @@ img {
 .header-box {
     display: flex;
     justify-content: space-between;
+    padding: 24px 0;
 }
 
 .logo {
@@ -68,10 +69,6 @@ img {
 
 .logo-studio {
     color: #2E2F42;
-}
-
-.nav-items {
-    padding: 24px 0;
 }
 
 .navigation-link a {
@@ -117,8 +114,6 @@ img {
 .address-items {
     display: flex;
     gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 
