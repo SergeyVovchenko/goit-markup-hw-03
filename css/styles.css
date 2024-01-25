@@ -47,6 +47,7 @@ img {
 .header {
     border-bottom: 1px solid #E7E9FC;
     background: #FFF;
+    padding: 24px 0;
 }
 
 .header-box {
@@ -82,7 +83,7 @@ img {
     color: #404BBF;
 }
 
-.navigation-link {
+.studio-link {
     padding: 24px 0;
 }
 
