@@ -64,8 +64,6 @@ img {
     letter-spacing: 0.54px;
     text-transform: uppercase;
     margin-right: 76px;
-    margin-top: 25.5px;
-    margin-bottom: 25.5px;
 }
 
 .logo-studio {
@@ -105,13 +103,12 @@ img {
 .navigation {
     display: flex;
     align-items: center;
+    padding: 24px 0;
 }
 
 .navigation-link {
     display: flex;
     gap: 40px;
-    padding-top: 24px;
-    margin-bottom: 24px;
 }
 
 .address-items {
@@ -244,7 +241,7 @@ button:focus {
     letter-spacing: 0.72px;
     text-transform: capitalize;
     text-align: center;
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .team-info {
@@ -284,7 +281,7 @@ button:focus {
 
 .portfolio-box {
     width: calc((100% - 2 * 24px) / 3);
-    border: 1px solid #E7E9FC;
+    border: 1px solid #e7e9fc;
     border-top: none;
     background: #FFF;
 }
@@ -296,7 +293,7 @@ button:focus {
     letter-spacing: 0.72px;
     text-transform: capitalize;
     text-align: center;
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .portfolio-info {
